@@ -3,9 +3,11 @@
 ## Description
 
 Calculate the average temperatures in both Fahrenheit and Celsius
-*   Converting temperatures in the given Fahrenheit to Celsius
-*   Display the conversion of temperature from Fahrenheit to Celsius
-*   Calculate and display the average temperatures in Fahrenheit and Celsius
+* Converting temperatures in the given Fahrenheit to Celsius
+* Display the conversion of temperature from Fahrenheit to Celsius
+* Calculate and display the average temperatures in Fahrenheit and Celsius
+* Calculate and display the number of days below, at, or above the average temperatures
+
 
 ## Built With
 * [x] Java
